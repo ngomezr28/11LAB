@@ -8,3 +8,4 @@ st.write("Hub de Innovación SENA")
 image = Image.open("propo.jpg")
 
 
+
